@@ -1,6 +1,7 @@
 ### Hi there 👋, Deevesh Kumar
 #### I am a student.
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/deevesh11nov/deevesh11nov/assets/127090783/73ceb5b0-d71e-41b4-8a3a-9c197864257f=250x250)
+
+![272529063-73ceb5b0-d71e-41b4-8a3a-9c197864257f (1)](https://github.com/deevesh11nov/deevesh11nov/assets/127090783/29d05c94-6bcc-42d8-90fa-ebd5078db643)
 
 
 
