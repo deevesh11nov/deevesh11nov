@@ -1,6 +1,7 @@
 ### Hi there 👋, Deevesh Kumar
 #### I am a student.
-https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966
+
+![68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966](https://github.com/deevesh11nov/deevesh11nov/assets/127090783/683dd438-46d6-4f4e-81f3-19b241ee6911)
 
 I am currently taking a web developer course from Coding Ninja. I have a strong command of the Java language, data structures, HTML, JavaScript and React. Currently, I am studying backend (Node.js, MongoDB, Firebase, etc.).You can check out my Linkedin at https://www.linkedin.com/in/deevesh-kumar-886189218/
 
