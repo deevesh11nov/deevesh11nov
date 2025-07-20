@@ -1,5 +1,5 @@
 ### Hi there 👋, Deevesh Kumar
-#### I am a student.
+#### I am a working professional.
 
 ![272529063-73ceb5b0-d71e-41b4-8a3a-9c197864257f (1)](https://github.com/deevesh11nov/deevesh11nov/assets/127090783/29d05c94-6bcc-42d8-90fa-ebd5078db643)
 
